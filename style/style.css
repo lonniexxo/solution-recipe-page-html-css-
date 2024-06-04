@@ -25,13 +25,13 @@
 .home__titulo{
     font-family: 'Youn Serif',serif;
     font-weight: 700;
-    font-size: 100px;
+    font-size: 90px;
     margin: 0 50px 25px 50px;
 }
 .home__paragrafo{
     font-family: 'Outfit',sans-serif;
     font-weight: 400 ;
-    font-size: 34px;
+    font-size: 16px;
     margin: 0 50px 0 50px;
 }
 
@@ -161,17 +161,16 @@ li::marker{
     border-bottom: 0.5px solid black;
 }
 .nutricao__quantidade1{
-    margin: 0 0 0 30px;
+    margin: 0 0 0 10px;
 }
 .nutricao__quantidade2{
-    margin: 0 0 0 45px;
-
+    margin: 0 0 0 27px;
 }
 .nutricao__quantidade3{
-    margin: 0 0 0 37px;
+    margin: 0 0 0 18px;
 }
 .nutricao__quantidade4{
-    margin: 0 0 0 63px;
+    margin: 0 0 0 46px;
 }
 .nutri__quant{
     color: hsl(14, 45%, 36%);
